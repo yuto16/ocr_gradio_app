@@ -1,0 +1,5 @@
+gradio==4.37.2
+openai==1.35.7
+opencv-python-headless==4.10.0.84
+paddlepaddle==2.6.1
+paddleocr==2.7.3
